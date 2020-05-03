@@ -1,0 +1,1 @@
+ExpiresByType image/jpg "access plus 1 month"
