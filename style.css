@@ -272,6 +272,35 @@ a:hover {
     margin-top: 80px;
 }
 
+.agency-description{
+    font-size: 22px;
+    margin: 0 auto;
+    width: 60%;
+    padding: 20px 0;
+}
+
+.portfolio-indication{
+    width: 45%;
+}
+
+.citation{
+    font-size: 20px;
+    font-style: italic;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.citation-author{
+    font-size: 14px;
+    font-weight: 300;
+}
+
+@media (max-width: 768px) {
+    .agency-description{
+        width: 100%;
+    }
+}
+
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
