@@ -391,6 +391,15 @@ a:hover {
     z-index: 2;
 }
 
+.keywords{
+    font-size: 1px;
+    visibility: hidden;
+}
+
+.keywords-footer{
+    font-size: 10px;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -680,7 +689,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #1C1C1C!important;
 }
 
 .container {
@@ -804,11 +813,11 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F9DCD7!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #99380B;
     color: #FFFFFF!important;
 }
 
